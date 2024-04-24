@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    
+    font-size: 14px;
+}
+body{
+    font-family: sans-serif;
+    background-image: url(./assets/img/fundo.png);
+}
+
+h1,h2{
+    font-size: 30px;
+}
+
+

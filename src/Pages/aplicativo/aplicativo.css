@@ -1,0 +1,205 @@
+.first{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.buton{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+.gato{
+    width: 400px;
+}
+
+.cel{
+    width: 300px;
+    padding-top: 50px;
+}
+
+.first h1 {
+
+    color: #BF683D;
+    font-size: 40px;
+    padding-bottom: 20px ;
+}
+.first p {
+    color: #BF683D;
+}
+
+button{
+    background-color: #BF683D;
+    color: #FFE2D3;
+    width: 170px;
+    height: 60px;
+    border: none;
+    border-radius: 15px;
+    font-size: 22px;
+    cursor: pointer;
+
+}
+
+.app-container {
+    display: flex;
+    background-color: #C4ECE9;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    width: 100%;
+}
+
+.second{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.second h1{
+    
+    padding-top: 20px;
+    color: #BF683D;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.second p{
+    color: #052D2A;
+
+}
+
+.app-container2{
+    display: flex; 
+    justify-content: center;
+}
+
+.cao{
+    width: 500px;
+    
+}
+
+.buton2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.app-container3{
+    background-color: #C4ECE9;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.third{
+    text-align: center;
+}
+
+.third h1{
+    color: #BF683D;
+    font-size: 40px;
+    padding-bottom: 80px;
+    padding-top: 20px;
+}
+
+.users {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    font-size: 15px;
+}
+.user1, .user2, .user3{
+    width: 33.33%;
+}
+
+.buton3{
+    padding-top: 80px;
+    padding-bottom: 30px;  
+}
+
+@media screen and (max-width:1200px) {
+    .app-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .gato {
+        display: none;
+    }
+
+    .app-container h1 {
+        font-size: 30px;
+        padding-top: 50px;
+    }
+
+    .app-container p {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .app-container2 {
+        flex-direction: column;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .cao {
+        width: 400px ;
+    }
+
+    .app-container2 h1 {
+        font-size: 30px;
+        padding-top: 50px;
+    }
+
+    .app-container2 p {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .app-container3 {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .app-container3 h1 {
+        font-size: 30px;
+        padding-top: 50px;
+    }
+
+    .users {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .app-container h1 {
+        font-size: 20px;
+    }
+
+    .app-container p {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .cao {
+        width: 200px ;
+    }
+
+    .app-container2 h1 {
+        font-size: 20px;
+    }
+
+    .app-container2 p {
+        font-size: 15px;
+    }
+}

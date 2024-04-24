@@ -1,0 +1,85 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Ração Special Dog Prime Cães Júnior",
+      "Sabor": "Frango",
+      "tamanho": "3Kg",
+      "valor": 79.9,
+      "descricao": "Special Dog Prime Junior Rm 3kg",
+      "img": "https://petbox.vteximg.com.br/arquivos/ids/164798-468-468/f30a0c2cfa6fc93fb916ddeda3e9e59396cde8cc.jpg?v=638151059691530000"
+    },
+    {
+      "id": "2",
+      "nome": "Ração Special Dog Prime Cães Sênior",
+      "Sabor": "Frango",
+      "tamanho": "15Kg",
+      "valor": 244.9,
+      "descricao": "Special Dog Prime Senior 15kg",
+      "img": "https://petbox.vteximg.com.br/arquivos/ids/161006-468-468/c52c1fccd3062cb25e15d369d577fbcc9284e408.jpg?v=637866008219570000"
+    },
+    {
+      "id": "3",
+      "nome": "Ração Special Dog Prime Cães Adultos",
+      "Sabor": "Frango",
+      "tamanho": "10,1Kg",
+      "valor": 109.9,
+      "descricao": "Special Dog Prime Adultos Rm 20kg",
+      "img": "https://petbox.vteximg.com.br/arquivos/ids/164036-468-468/f98e5285721cddaa7efd58608783c3aa0829bab5.gif?v=638118989320870000"
+    },
+    {
+      "id": "4",
+      "nome": "Gdog Cães Adultos",
+      "Sabor": "Carne",
+      "tamanho": "15Kg",
+      "valor": 169.9,
+      "descricao": "Ingredientes selecionados para cães adultos de raças pequenas, médias e grandes, promovendo o cuidado com a saúde oral do seu cão.",
+      "img": "https://i.imgur.com/h2whzi2.jpeg"
+    },
+    {
+      "id": "5",
+      "nome": "Ração Pedigree Adultos",
+      "Sabor": "Carne",
+      "tamanho": "10,1Kg",
+      "valor": 109.9,
+      "descricao": "Ração com com proteína de alta qualidade, Calcio e vitaminas Sabor Carne",
+      "img": "https://i.imgur.com/OMWvkDb.jpeg"
+    },
+    {
+      "id": "6",
+      "nome": "Nutri Sabore Power Training",
+      "Sabor": "Frango",
+      "tamanho": "20Kg",
+      "valor": 299.9,
+      "descricao": "Alimento completo e balanceado para cães adultos submetidos a alta atividade física, assegurando uma melhor performance muscular em treinamentos e competições.",
+      "img": "https://i.imgur.com/xPIb5Fg.jpg"
+    },
+    {
+      "id": "7",
+      "nome": "Nutri Sabore Cães Adultos",
+      "Sabor": "Frango",
+      "tamanho": "20Kg",
+      "valor": 299.9,
+      "descricao": "Nutrição completa para cães adultos de raças médias e grandes, que auxilia no fortalecimento das articulações.",
+      "img": "https://i.imgur.com/93Npzug.jpeg"
+    },
+    {
+      "id": "8",
+      "nome": "Nutri Sabore Gatos Adultos Castrados",
+      "Sabor": "Carne",
+      "tamanho": "1Kg",
+      "valor": 39.9,
+      "descricao": "Gatos castrados: Ingredientes selecionados, nutrição saborosa, que auxilia na saúde do trato urinário de gatos adultos castrados.",
+      "img": "https://i.imgur.com/50Ns7Vp.jpeg"
+    },
+    {
+      "id": "9",
+      "nome": "Don Nico Gatos Adultos",
+      "Sabor": "Frango",
+      "tamanho": "10,1Kg",
+      "valor": 129.9,
+      "descricao": "",
+      "img": "https://i.imgur.com/XLfxyTq.jpeg"
+    }
+  ]
+}
